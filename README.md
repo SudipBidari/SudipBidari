@@ -9,3 +9,4 @@
  ![""](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
  ![""](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social)
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudipBidari)](https://github.com/SudipBidari)
