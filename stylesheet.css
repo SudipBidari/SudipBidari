@@ -159,7 +159,7 @@ a:hover:after{
   width: 100%;
 }
 .nd{
-  position: absolute;
+  position: relative;
   background-color: rgba(0, 0, 0);
   padding: 100px;
   color: #ffffff;
