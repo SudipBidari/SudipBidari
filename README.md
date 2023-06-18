@@ -9,4 +9,4 @@
  ![""](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
  ![""](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social)
  
-[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudipBidari&show_icons=true&theme=dracula)](https://github.com/SudipBidari)
+ <!-- [![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudipBidari&show_icons=true&theme=dracula)](https://github.com/SudipBidari) -->
