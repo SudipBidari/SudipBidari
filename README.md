@@ -8,5 +8,6 @@
  ![""](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
  ![""](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
  ![""](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social)
+  ![""](https://img.shields.io/badge/-REACT-black?logo=react&style=social)
  
  <!-- [![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudipBidari&show_icons=true&theme=dracula)](https://github.com/SudipBidari) -->
